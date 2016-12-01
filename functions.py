@@ -1,7 +1,7 @@
 #  -*- coding: 850 -*-
 # -*- coding: utf-8 -*-
 
-from Tkinter import *
+from Tkinter import Label, Toplevel
 
 ## DEFINICIÓN DE FUNCIONES
 

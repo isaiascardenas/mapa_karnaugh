@@ -17,7 +17,7 @@
 
 # IMPORTACIÓN
 
-from Tkinter import *
+from Tkinter import Tk, Label, StringVar, Entry, Button
 from functions import subVentana
 
 # ###############   Main  ###############################
